@@ -20,13 +20,13 @@ $npm install
 $yarn
 ```
 
-After all the packages are installed, just run the following command at the terminal:
+After all the packages are installed, just run the following command:
 
 ```Powershell
 $node index.js
 ```
 
-When asked, enter the input value for the rover, at the end will be prompt the final possition of the rover.
+When asked, enter the input value for the rover, at the end will be prompt the final position of the rover.
 
 ## How to run the tests
 
